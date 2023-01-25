@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "coders-conner",
+    "public": "site",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

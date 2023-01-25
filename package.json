@@ -1,0 +1,20 @@
+{
+  "name": "coders-conner",
+  "version": "1.0.0",
+  "description": "A bloging site by atom06",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "delpoy": "firebase deploy --only hosting:coders-conner"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atom06/Coders-Conner.git"
+  },
+  "author": "atom06",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atom06/Coders-Conner/issues"
+  },
+  "homepage": "https://github.com/atom06/Coders-Conner#readme"
+}
